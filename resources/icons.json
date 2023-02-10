@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": [
+        {
+            "genesis": "SPACE",
+            "codehash": "",
+            "name": "SPACE",
+            "symbol": "SPACE",
+            "decimal": 8,
+            "logo": "space.png"
+        }
+    ]
+}
