@@ -12,6 +12,18 @@
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
             "symbol": "mtt",
             "logo": "ms.png"
+        },
+        {
+            "genesis": "f81ab1254df6a9ddbf0eb2ba9ef5944c8fcdfb53",
+            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
+            "symbol": "SUSD",
+            "logo": "susd.png"
+        },
+        {
+            "genesis": "b1a4eefc205412ef5f51a7394a066d008e7eecf9",
+            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
+            "symbol": "tSPD",
+            "logo": "spd.png"
         }
     ]
 }
