@@ -24,6 +24,12 @@
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
             "symbol": "tSPD",
             "logo": "spd.png"
+        },
+        {
+            "genesis": "94c2ae3fdbf95a4fb0d788c818cf5fcc7a9aa66a",
+            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
+            "symbol": "USDT",
+            "logo": "usdt.jpg"
         }
     ]
 }
