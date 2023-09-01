@@ -30,6 +30,12 @@
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
             "symbol": "USDT",
             "logo": "usdt.jpg"
+        },
+        {
+            "genesis": "07e4c5a9f866164108de005be81d40ccbd2e964c",
+            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
+            "symbol": "MC",
+            "logo": "mc.png"
         }
     ]
 }
