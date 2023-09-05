@@ -36,6 +36,12 @@
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
             "symbol": "MC",
             "logo": "mc.png"
+        },
+        {
+            "genesis": "185b4c8fb97a133f1587411b449d30d87ce7d155",
+            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
+            "symbol": "SHOW",
+            "logo": "show.png"
         }
     ]
 }
