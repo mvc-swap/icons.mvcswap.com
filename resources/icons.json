@@ -14,16 +14,10 @@
             "logo": "ms.png"
         },
         {
-            "genesis": "f81ab1254df6a9ddbf0eb2ba9ef5944c8fcdfb53",
+            "genesis": "fad7b10812fa76718127e084bb71cdb87853261c",
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
-            "symbol": "SUSD",
-            "logo": "susd.png"
-        },
-        {
-            "genesis": "b1a4eefc205412ef5f51a7394a066d008e7eecf9",
-            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
-            "symbol": "tSPD",
-            "logo": "spd.png"
+            "symbol": "veMSP",
+            "logo": "ms.png"
         },
         {
             "genesis": "94c2ae3fdbf95a4fb0d788c818cf5fcc7a9aa66a",
