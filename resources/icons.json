@@ -36,6 +36,12 @@
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
             "symbol": "SHOW",
             "logo": "show.png"
+        },
+        {
+            "genesis": "885b03c2df974ec29d6bab4766af28e14b87e689",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "sats",
+            "logo": "sats.png"
         }
     ]
 }
