@@ -14,6 +14,12 @@
             "logo": "ms.png"
         },
         {
+            "genesis": "MSP",
+            "codehash": "MSP",
+            "symbol": "MSP",
+            "logo": "ms-small.png"
+        },
+        {
             "genesis": "fad7b10812fa76718127e084bb71cdb87853261c",
             "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
             "symbol": "veMSP",
