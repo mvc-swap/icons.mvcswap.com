@@ -198,6 +198,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "W9527",
             "logo": "w-9527.png"
+        },
+        {
+            "genesis": "ec1b259d42aa1af103c043b8723343619f4de1b5",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "pepe",
+            "logo": "pepe.jpg"
         }
     ]
 }
