@@ -204,6 +204,30 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "pepe",
             "logo": "pepe.jpg"
+        },
+        {
+            "genesis": "66b416427aa5c298dc38b7c057ca821448b6356f",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "WW☮",
+            "logo": "w-W☮.png"
+        },
+        {
+            "genesis": "3ac108db061cb045415cdd52def6965a4fa6b2df",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "Wwzrd",
+            "logo": "w-wzrd.png"
+        },
+        {
+            "genesis": "04502375fb643ba42b86476bf6962e28a2458356",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "WNODE",
+            "logo": "w-NODE.png"
+        },
+        {
+            "genesis": "b100a4cb6ba2686abe7f76b6357111dbe618bec0",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "WSHID",
+            "logo": "w-SHID.png"
         }
     ]
 }
