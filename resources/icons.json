@@ -228,6 +228,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "WSHID",
             "logo": "w-SHID.png"
+        },
+        {
+            "genesis": "9d287e087dce0a9b77dc0242b7feb9e2fbf07465",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "buzz",
+            "logo": "buzz.png"
         }
     ]
 }
