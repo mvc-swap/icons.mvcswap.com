@@ -122,6 +122,12 @@
             "logo": "w-pepe.png"
         },
         {
+            "genesis": "f618fc32af831de0c2200f44dfe745cd2c6c783e",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "bome",
+            "logo": "bome.jpg"
+        },
+        {
             "genesis": "a54dd16d255ac5462a59c9c33ef7d12b5917a63f",
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "WORDG",
