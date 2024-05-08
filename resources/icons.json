@@ -240,8 +240,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "WOsfi",
             "logo": "w-Osfi.png"
+        },
         {
-            "genesis": "APEX",
-            "codehash": "APEX",
+            "genesis": "e6c27d5600ac127a828ebda8b6c10a398d3953c7",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "APEX",
             "logo": "APEX.jpg"
+        }
+    ]
+}
