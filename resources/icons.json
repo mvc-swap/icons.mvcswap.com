@@ -258,6 +258,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "APEX",
             "logo": "APEX.jpg"
+        },
+        {
+            "genesis": "af5f8a41daaa38fcbff26311c5a1585acf71f067",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "MANA",
+            "logo": "MANA.jpg"
         }
     ]
 }
