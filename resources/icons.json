@@ -258,6 +258,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "APEX",
             "logo": "APEX.jpg"
+        },
+        {
+            "genesis": "08b1328ba2eb1f1fc53fe90d488e382104a62378",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "piza",
+            "logo": "piza.png"
         }
     ]
 }
