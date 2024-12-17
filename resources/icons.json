@@ -259,5 +259,12 @@
             "symbol": "APEX",
             "logo": "APEX.jpg"
         }
+        ,
+        {
+            "genesis": "28a481ecdae9499a599a9457ae70b5cf234ef417",
+            "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
+            "symbol": "METAID",
+            "logo": "w-metaid.png"
+        }
     ]
 }
