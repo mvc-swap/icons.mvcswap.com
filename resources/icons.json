@@ -271,6 +271,12 @@
             "codehash": "c9cc7bbd1010b44873959a8b1a2bcedeb62302b7",
             "symbol": "METASO",
             "logo": "w-metaso.png"
+        },
+        {
+            "genesis": "2cb16123d2473da1972a818af7ed22fafc149f79",
+            "codehash": "a2421f1e90c6048c36745edd44fad682e8644693",
+            "symbol": "星能",
+            "logo": "xingneng.png"
         }
     ]
 }
